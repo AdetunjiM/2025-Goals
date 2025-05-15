@@ -337,6 +337,26 @@ Q2
 
 <details>
 
+<summary> Adetunji's Goals  </summary>
+  
+---
+
+  Q2
+  
+  -Learn in details about Data Governance & Metadata Management<br>
+  -Complete Ab Initio Training  and certification<br>
+  -Complete Collibra Trainings <br>
+  -Collibra data stewards Certification <br>
+  -CISSP certification <br>
+  
+  </p>
+
+
+
+
+</details>
+
+<details>
 ---
 
   <summary> Groups </summary>
